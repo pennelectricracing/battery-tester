@@ -24,7 +24,7 @@ Features:
 
 MCU (STM32F777VIT6): The MCU is the brain of the board. It takes in signals, performs calculations, then outputs signals. It sends out \Enable, an active low signal, to the IGBT to turn it off if needed.
 
-![MCU](https://user-images.githubusercontent.com/14287399/98461319-d0ea4580-2170-11eb-90eb-06534cbb15b2.png)
+![MCU](https://user-images.githubusercontent.com/14287399/98461328-e7909c80-2170-11eb-8f4c-ca17ae70a5a5.png)
 
 Features:
 
