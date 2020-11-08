@@ -11,7 +11,7 @@ Supplies:
 
 IGBT (FF600R12ME4): The IGBT module is a transistor which has the high input impedance and switching speeds of a MOSFET with the low saturation voltage of a BJT. This component takes in signals from the MCU and drivers to control the charge/discharge of batteries.
 
-![IGBT Module](/images/image2020-10-20_9-56-51.png)
+![IGBT Module](https://user-images.githubusercontent.com/14287399/98461305-adbf9600-2170-11eb-8a29-801513ff2699.png)
 
 Features:
 
@@ -24,7 +24,7 @@ Features:
 
 MCU (STM32F777VIT6): The MCU is the brain of the board. It takes in signals, performs calculations, then outputs signals. It sends out \Enable, an active low signal, to the IGBT to turn it off if needed.
 
-![MCU](/images/497;-1L_ME;-T;-100.jpg)
+![MCU](https://user-images.githubusercontent.com/14287399/98461319-d0ea4580-2170-11eb-90eb-06534cbb15b2.png)
 
 Features:
 
