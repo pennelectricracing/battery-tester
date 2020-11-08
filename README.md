@@ -1,6 +1,8 @@
 # battery-tester
 JLCPCB Sponsored Battery Tester PCB Project with Penn Electric Racing
 
+![Battery Tester](https://user-images.githubusercontent.com/14287399/98461368-2b83a180-2171-11eb-814c-756b29abdda6.png)
+
 The battery tester is a board that will be used to test the charging/discharging of the battery. We charge/discharge the battery via the MOSFETs in the IGBT module, and we are able to control the charge/discharge process by sending signals to these MOSFETs. We can monitor the voltage of the battery multiple ways.
 
 Supplies:
