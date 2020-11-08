@@ -39,22 +39,26 @@ Features:
 
 **JLCPCB Manufacturing and Assembly**
 
-Step 1: Ordering the PCBs
+**Step 1: Ordering the PCBs**
 ![Step 1](https://user-images.githubusercontent.com/14287399/98461464-e6ac3a80-2171-11eb-87b8-73d03b442f44.png)
+
 Now, with our PCB design in hand, it's time to order the PCBs and Assembly. For this step, head to JLCPCB.com, and click on QUOTE NOW.
 
 JLCPCB has sponsored our project. JLCPCB (ShenzhenJLC Electronics Co., Ltd.), is the world's largest PCB prototype company and the leading high-tech manufacturer specializing in quick PCB prototypes and small volume PCB production. You can order PCB and SMT Assembly starting at just $2 for 5 PCBs. You can read more about them on our website here: https://www.pennelectricracing.com/s/JLCPCB-Sponsorship-Document.docx. 
 
-Step 2: Add Your Gerber File
+**Step 2: Add Your Gerber File**
 ![Step 2](https://user-images.githubusercontent.com/14287399/98461472-02174580-2172-11eb-9566-454a12e74ed0.png)
+
 After exporting your gerber and drill files from Altium (see Files section for instructions), compress them and upload your zip file to JLC's website.
 
-Step 3: Confirm Options
+**Step 3: Confirm Options**
 ![Step 3](https://user-images.githubusercontent.com/14287399/98461487-1bb88d00-2172-11eb-899d-3cd1b2b19e98.png)
+
 Here, you can see we successfully uploaded our zip file. We are then able to review our board using the Gerber Viewer function to ensure that both the Top and Bottom layers look good. 
 
-Step 4: Order Assembly
+**Step 4: Order Assembly**
 ![Step 4](https://user-images.githubusercontent.com/14287399/98461507-31c64d80-2172-11eb-883d-d9dbf623a54b.png)
+
 We opted to have JLC assemble the bottom side of our PCB. For this step, we uploaded our BOM file and Pick and Place file exported from Altium, confirmed our part selection from JLCPCB's parts library, and verified the orientation of all of our SMT parts. 
 
 To place the order, hit Save to Cart and then Checkout securely. Our PCBs took less than a week for fabrication and assembly and arrived at our door 3 days after that using the DHL delivery option. We were very happy to receive our well-packaged PCBs, and their quality was excellent. 
